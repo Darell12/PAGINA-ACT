@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "..\\Restaurante"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "PAGINA"
+	}
+}
