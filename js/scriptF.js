@@ -1,4 +1,4 @@
-const espacio = document.querySelector("#espacio")
+var espacio = document.querySelector("#espacio")
 console.log(espacio);
 
 const formulario1 = document.querySelector("#FuncionesSEC");
